@@ -1,0 +1,58 @@
+[
+  {
+    "code": "01",
+    "name": "Tower1",
+    "children": [
+      {
+        "code": "100",
+        "name": "1F"
+      },
+      {
+        "code": "200",
+        "name": "2F"
+      },
+      {
+        "code": "300",
+        "name": "3F"
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "name": "Tower2",
+    "children": [
+      {
+        "code": "100",
+        "name": "1F"
+      },
+      {
+        "code": "200",
+        "name": "2F"
+      },
+      {
+        "code": "300",
+        "name": "3F"
+      },
+      {
+        "code": "400",
+        "name": "4F"
+      },
+      {
+        "code": "500",
+        "name": "5F"
+      },
+      {
+        "code": "600",
+        "name": "6F"
+      },
+      {
+        "code": "700",
+        "name": "7F"
+      },
+      {
+        "code": "800",
+        "name": "8F"
+      }
+    ]
+  }
+]
